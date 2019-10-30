@@ -1,0 +1,18 @@
+.example-container {
+    flex-direction: column;
+  }
+  
+  .example-container > * {
+    width: 60%;
+    text-align: center;
+    
+  }
+
+  .navbar{
+      background-color: lightgray;
+  }
+
+  .body{
+    background-color: lightgray;
+      text-align: center;
+  }
